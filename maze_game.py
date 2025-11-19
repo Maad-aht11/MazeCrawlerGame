@@ -1,9 +1,8 @@
-import player
+import MazeCrawlerGame.player as player
 import sys
-import gameboard
+import MazeCrawlerGame.gameboard as gameboard
 import random
 from colorama import Fore, Style, Back, init
-#FINISHED 11/13/2025
 
 player_pos = 0
 
